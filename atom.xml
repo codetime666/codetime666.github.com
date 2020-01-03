@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codetime666.github.io</id>
-    <title>yyx</title>
-    <updated>2020-01-03T10:54:31.239Z</updated>
+    <title>旭</title>
+    <updated>2020-01-03T10:58:27.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codetime666.github.io"/>
     <link rel="self" href="https://codetime666.github.io/atom.xml"/>
     <subtitle>X_Taking</subtitle>
     <logo>https://codetime666.github.io/images/avatar.png</logo>
     <icon>https://codetime666.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, yyx</rights>
+    <rights>All rights reserved 2020, 旭</rights>
     <entry>
         <title type="html"><![CDATA[2020.1.03  Gridea]]></title>
         <id>https://codetime666.github.io/post/2020103-gridea</id>
