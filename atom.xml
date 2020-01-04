@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codetime666.github.io</id>
     <title>X</title>
-    <updated>2020-01-04T09:11:37.086Z</updated>
+    <updated>2020-01-04T12:54:54.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codetime666.github.io"/>
     <link rel="self" href="https://codetime666.github.io/atom.xml"/>
@@ -11,12 +11,38 @@
     <icon>https://codetime666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, X</rights>
     <entry>
+        <title type="html"><![CDATA[数据分析推荐书-（增长黑客)]]></title>
+        <id>https://codetime666.github.io/post/shu-ju-fen-xi-tui-jian-shu-zeng-chang-hei-ke</id>
+        <link href="https://codetime666.github.io/post/shu-ju-fen-xi-tui-jian-shu-zeng-chang-hei-ke">
+        </link>
+        <updated>2020-01-04T12:48:17.000Z</updated>
+        <content type="html"><![CDATA[<p>链接：<a href="https://pan.baidu.com/s/1FgnDQoeEkveLpUp-Gn6cgA">https://pan.baidu.com/s/1FgnDQoeEkveLpUp-Gn6cgA</a><br>
+提取码：cbmq</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL- 基础篇（一）]]></title>
+        <id>https://codetime666.github.io/post/sql-ji-chu-pian-yi</id>
+        <link href="https://codetime666.github.io/post/sql-ji-chu-pian-yi">
+        </link>
+        <updated>2020-01-04T12:38:18.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="语法">语法</h3>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[数据分析-Excel基础篇（一）]]></title>
         <id>https://codetime666.github.io/post/shu-ju-fen-xi-excel-ji-chu-pian-yi</id>
         <link href="https://codetime666.github.io/post/shu-ju-fen-xi-excel-ji-chu-pian-yi">
         </link>
         <updated>2020-01-04T08:57:27.000Z</updated>
         <content type="html"><![CDATA[<h1 id="excel-基础">Excel 基础</h1>
+<h3 id="vlookup-注意">VLOOKUP 注意</h3>
+<ul>
+<li>引用的区域一定要绝对引用</li>
+<li>用用区域的第一列一定要是我们所要查找的公共列字段
+<h3 id="未完">未完</h3>
+</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
