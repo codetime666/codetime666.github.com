@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codetime666.github.io</id>
     <title>X</title>
-    <updated>2020-01-05T08:13:38.319Z</updated>
+    <updated>2020-01-05T08:16:43.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codetime666.github.io"/>
     <link rel="self" href="https://codetime666.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://codetime666.github.io/images/avatar.png</logo>
     <icon>https://codetime666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, X</rights>
+    <entry>
+        <title type="html"><![CDATA[Python 基础-（一）]]></title>
+        <id>https://codetime666.github.io/post/python-ji-chu-yi</id>
+        <link href="https://codetime666.github.io/post/python-ji-chu-yi">
+        </link>
+        <updated>2020-01-05T08:13:48.000Z</updated>
+        <content type="html"><![CDATA[<p>#数据分析需要哪些库</p>
+<blockquote>
+<p>pandas</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pycharm注册码||时间截至日期2021.03]]></title>
         <id>https://codetime666.github.io/post/pycharm-zhu-ce-ma-orshi-jian-jie-zhi-ri-qi-202103</id>
