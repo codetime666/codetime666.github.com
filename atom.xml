@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codetime666.github.io</id>
     <title>X</title>
-    <updated>2020-01-05T08:16:43.364Z</updated>
+    <updated>2020-01-05T08:19:32.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codetime666.github.io"/>
     <link rel="self" href="https://codetime666.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://codetime666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, X</rights>
     <entry>
-        <title type="html"><![CDATA[Python 基础-（一）]]></title>
+        <title type="html"><![CDATA[数据分析 || Python -基础篇（一）]]></title>
         <id>https://codetime666.github.io/post/python-ji-chu-yi</id>
         <link href="https://codetime666.github.io/post/python-ji-chu-yi">
         </link>
@@ -47,7 +47,7 @@ QYYBAC9D3J-eyJsaWNlbnNlSWQiOiJRWVlCQUM5RDNKIiwibGljZW5zZWVOYW1lIjoi6LaF57qnIOeoi
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQL- 基础篇（一）]]></title>
+        <title type="html"><![CDATA[数据分析 || SQL- 基础篇（一）]]></title>
         <id>https://codetime666.github.io/post/sql-ji-chu-pian-yi</id>
         <link href="https://codetime666.github.io/post/sql-ji-chu-pian-yi">
         </link>
@@ -56,7 +56,7 @@ QYYBAC9D3J-eyJsaWNlbnNlSWQiOiJRWVlCQUM5RDNKIiwibGljZW5zZWVOYW1lIjoi6LaF57qnIOeoi
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据分析-Excel基础篇（一）]]></title>
+        <title type="html"><![CDATA[数据分析 || Excel-基础篇（一）]]></title>
         <id>https://codetime666.github.io/post/shu-ju-fen-xi-excel-ji-chu-pian-yi</id>
         <link href="https://codetime666.github.io/post/shu-ju-fen-xi-excel-ji-chu-pian-yi">
         </link>
