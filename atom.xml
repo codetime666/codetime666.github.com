@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codetime666.github.io</id>
     <title>X</title>
-    <updated>2020-01-05T08:22:20.503Z</updated>
+    <updated>2020-01-06T07:44:13.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codetime666.github.io"/>
     <link rel="self" href="https://codetime666.github.io/atom.xml"/>
@@ -18,7 +18,9 @@
         <updated>2020-01-05T08:13:48.000Z</updated>
         <content type="html"><![CDATA[<p>#数据分析需要哪些库</p>
 <blockquote>
-<p>pandas</p>
+<p>shift tab 键 在jupyter 中是可以显示函数的用法<br>
+python 当中 解决小数的问题 需要调用 decimal 库<br>
+python 中小数 在约等于的时候 是奇数进偶数舍去</p>
 </blockquote>
 ]]></content>
     </entry>
