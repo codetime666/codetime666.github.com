@@ -1,8 +1,8 @@
 <html>
   <head>
-  <meta charset="utf-8" />
+    <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>标签列表 | X</title>
+<title>This me | X</title>
 <meta name="description" content="Happy life is caused by a pleasant thoughts" />
 <link rel="shortcut icon" href="https://codetime666.github.io/favicon.ico">
 <link rel="stylesheet" href="https://codetime666.github.io/styles/main.css">
@@ -13,11 +13,11 @@
 <script src="https://codetime666.github.io/media/js/pace.min.js"></script>
 <script src="https://codetime666.github.io/media/js/view-image.min.js"></script>
 <script src="https://codetime666.github.io/media/js/functions.js"></script>
+    <script src="https://codetime666.github.io/media/js/waterfall.min.js"></script>
+    <script src="https://codetime666.github.io/media/js/prism.min.js"></script>
+    
   </head>
   <body>
-    <!-- start: #wrapper -->
-    <div class="wrapper">
-      
             <header id="header" class="grid-container">
         <!-- start: .menu-wrapper -->
         <div class="menu-mobile"> 
@@ -60,34 +60,92 @@
         <div class="clear"></div>
       </header>
 
-      <main id="tags" class="main fullcover no-sidebar content">
-        <div class="grid-container module-wrapper enable-masonry aos-init aos-animate" data-aos="fade-up">
+      <main id="single" class="main grid-container fullcover no-sidebar aos-init aos-animate" data-aos="fade">
+
+        <div class="center content">
+          <div class="featured-image cover" style="background-image: url('https://codetime666.github.io/post-images/this-me.jpg');">
+            <div class="meta top"> 
+              <time class="meta-info" style="float:left;" datetime="2020-01-06"><i class="fa fa-calendar"></i><span class="lately">28 分钟前</span></time>
+               
+               
+               <span id="/post/this-me/" class="leancloud_visitors views-counter meta-info">
+                <i class="fa fa-leancloud"></i><span class="leancloud-visitors-count" style="vertical-align: middle;">0</span>
+               </span>
+               
+            </div>
+            <div class="info">
+              <div class="tags ">
+                
+              </div>
+              <h1 class="title ularge white bold">This me</h1>
+            </div>
+          </div>
+        </div>  
+
         <div class="epcl-page-wrapper">
-          <div class="left-content grid-70 np-mobile widget_epcl_related_articles">
+          <div class="left-content grid-70 np-mobile">
+            <article class="main-article post">
+              <section class="post-content">
+                <div class="text">
+                  <figure data-type="image" tabindex="1"><img src="https://codetime666.github.io/post-images/1578304469785.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<blockquote>
+<p>一名普通二本院校的一名 计算机专业学生<br>
+热爱生活</p>
+</blockquote>
 
-          <div class="widget_tag_cloud tagcloud">
-            
-              <a href="https://codetime666.github.io/tag/ZLGfE9j5y" class="ctag ctag-0 ctag-ZLGfE9j5y" aria-label="">Python</a>
-            
-              <a href="https://codetime666.github.io/tag/Td6fFdDIx" class="ctag ctag-1 ctag-Td6fFdDIx" aria-label="">Tools</a>
-            
-              <a href="https://codetime666.github.io/tag/or0HkQxF3" class="ctag ctag-2 ctag-or0HkQxF3" aria-label="">Books</a>
-            
-              <a href="https://codetime666.github.io/tag/v9sGAuWmu" class="ctag ctag-3 ctag-v9sGAuWmu" aria-label="">SQL</a>
-            
-              <a href="https://codetime666.github.io/tag/r6GAfQWIN" class="ctag ctag-4 ctag-r6GAfQWIN" aria-label="">Excel</a>
-            
-              <a href="https://codetime666.github.io/tag/quOTb5Niw" class="ctag ctag-5 ctag-quOTb5Niw" aria-label="">Life</a>
-            
-          </div>
-        </div>
+                </div>
+                <div class="clear"></div>
+              </section>
+            </article>
+            <div class="clear"></div>
 
-        </div>
+            <section class="related section">
+              
+              
+
+                <div class="clear"></div>
+            </section>
+
+              <div class="clear"></div>
+
+              <div id="comments" class="bg-white hosted ">
+
+              
+                
+                  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'b2123e16737b5f3af6ec',
+    clientSecret: '69a65af39cb9f43aefe5fdd6d28b48c671e4e1c6',
+    repo: 'codetime666.github.io',
+    owner: 'codetime666',
+    admin: ['codetime666'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+                
+                
+              
+                <div class="clear"></div>
+              </div>
+
+              <div class="clear"></div>
+            </div>
           </div>
-        </div>
       </main>
 
-        <footer id="footer" class="grid-container">
+          <footer id="footer" class="grid-container">
         <div class="widgets row gradient-effect">
             <div class="default-sidebar border-effect">
               <div class="grid-33 tablet-grid-50 mobile-grid-100">
@@ -218,6 +276,50 @@
         </a>
     </footer>
     <div class="clear"></div>
+
+      <script type="text/javascript">
+       jQuery(document).ready(function($){
+          $("photos img").each(function(){
+              var _a = $("<a></a>").attr("href",this.src);
+              $(this).wrap("<div class='photo'></div>").wrap(_a);
+          })
+          $("figure img").each(function(){
+              var _b = $("<a></a>").attr("href",this.src);
+              $(this).wrap(_b);
+          })
+          isImgLoad(function(){
+            var photos = document.querySelector('photos');
+            if(photos){
+              waterfall(photos);
+            }
+            $(window).resize(function() {
+             if(photos){
+                  waterfall(photos);
+            }
+          });
+        });
+        var t_img;
+        var isLoad = true;
+        function isImgLoad(callback){
+          $('photos img').each(function(){
+            if(this.height === 0){
+              isLoad = false;
+              return false;
+            }
+          });
+          if(isLoad){
+            clearTimeout(t_img);
+            callback();
+          }else{
+            isLoad = true;
+            t_img = setTimeout(function(){
+              isImgLoad(callback);
+            },500);
+          }
+        }
+      });
+      </script>
+
     </div>
     <!-- end: #wrapper -->
   </body>
